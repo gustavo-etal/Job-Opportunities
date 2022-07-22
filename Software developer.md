@@ -1,4 +1,4 @@
-## Software developer for The Rapid Access Biosecurity (RAB) app™ at NC State
+## Software developer for The Rapid Access Biosecurity (RAB) app™ at NC State.
   
 The Machado Lab is looking for a software engineer to play a key role in the further development of RABApp which integrate swine data and disease spread modeling into a tool used by 14 states and 50 pig production companies in the U.S.  For more information about RABapp visit our website (https://machado-lab.github.io/rabapp/)  
   
