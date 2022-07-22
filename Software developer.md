@@ -14,7 +14,7 @@ The ideal candidate will:
   
 Minimum Qualifications  
   
--  Knowledge of the R, Pythong programming language;    
+-  Knowledge of the R, Python programming language;    
 -  Experience (not necessarily professional) building UIs, prefered Angular or Shiny;  
 -  Relational databases, especially PostgreSQL.  
 -  Experience collaborating with other developers using Git  
