@@ -1,0 +1,11 @@
+---
+title: "PhD"
+created: "2022-08-09"
+modification date: Tuesday 9th August 2022 19:48:56
+output: pdf_document
+---
+
+
+PhD position: Mathematical Modeling and Epidemiology of Swine Infectious Diseases
+
+We are looking for a highly motivated PhD-Student interested in the Mathematical Modeling of Infectious Disease transmission. The project combines mathematical modeling with the deployment of vaccination as major control intervention tactics. Accordingly, the candidate should have in addition to a  mathematical/quantitative background, skills to deal with complex and diverse data, and a strong interest in infectious-disease epidemiology. The student will work on a range of specified research projects, but will be also highly encouraged and expected to develop and investigate his own research questions.
